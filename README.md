@@ -9,6 +9,10 @@ Visio and Draw.io Diagrams I have created over the years.
 - [HVAC Technical Architecture](https://github.com/solventarchitect/diagrams/tree/main/Visio/HVAC-2016.vsdx)
 - [TLS Certificate Standards](https://github.com/solventarchitect/diagrams/tree/main/Visio/TLS-Certificate-Pattern.vsdx)
 
+## Draw.io Diagrams
+
+- [Azure Networking Simple](https://github.com/solventarchitect/diagrams/tree/main/Draw.io/Azure-Networking-Simple.drawio)
+
 ## Emojis
 
 🧰 💾 📄 📝 📜 📈 💿 ⚙️ 📡 👛 💵 💸 💰 🚀 🏦 📲 🖼 💣 💥 🔁 ✅ 🔏
